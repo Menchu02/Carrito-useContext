@@ -1,0 +1,112 @@
+[
+  {
+    "name": "The Shawshank Redemption",
+    "img": "https://i.pinimg.com/originals/a2/5b/4a/a25b4ae8e03c4b2ebd06d861a082956a.jpg",
+    "director": "Frank Darabont",
+    "year": 1994,
+    "isFavorite": false,
+    "sinopsis": "Andrew Dufresne es un hombre inocente que es acusado del asesinato de su mujer. Tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank, en Maine. Con el paso de los años, Andrew conseguirá ganarse la confianza del director del centro y el respeto de los otros convictos, especialmente de Red, el jefe de la mafia de los prisioneros.",
+    "genre": "Drama, Misterio, Carcel, Policial",
+    "id": "1",
+    "price": 75
+  },
+  {
+    "name": "Star Wars: Episode IV - A New Hope",
+    "img": "https://kbimages1-a.akamaihd.net/538b1473-6d45-47f4-b16e-32a0a6ba7f9a/1200/1200/False/star-wars-episode-iv-a-new-hope-3.jpg",
+    "director": "George Lucas",
+    "year": 1977,
+    "isFavorite": false,
+    "sinopsis": "La nave en la que viaja la princesa Leia es capturada por las tropas imperiales al mando del temible Darth Vader. Antes de ser atrapada, Leia consigue introducir un mensaje en su robot R2-D2, quien acompañado de su inseparable C-3PO logran escapar. Tras aterrizar en el planeta Tattooine son capturados y vendidos al joven Luke Skywalker, quien descubrirá el mensaje oculto que va destinado a Obi Wan Kenobi, maestro Jedi a quien Luke debe encontrar para salvar a la princesa.",
+    "genre": "Ciencia ficción, Acción, Aventura, Space ópera, Fantasía",
+    "id": "2",
+    "price": 88
+  },
+  {
+    "name": "Falling Down",
+    "img": "https://cdn.shopify.com/s/files/1/1416/8662/products/falling_down_1993_original_flm_art_a_1024x1024.jpg",
+    "director": "Joel Schumacher",
+    "year": 1993,
+    "isFavorite": false,
+    "sinopsis": "En Los Ángeles, durante una jornada especialmente agobiante a causa del calor y del colapso del tráfico, de repente, un ciudadano normal se rebela de manera violenta y destructiva contra todo lo que lo rodea. William 'D-Fens' Foster (Michael Douglas) no es más que un hombre corriente que supera como puede las frustraciones de cada día y que lo único que quiere es regresar a casa. Un oficial del departamento de policía (Robert Duvall) intentará poner fin a su violencia y agresividad.",
+    "genre": "Acción, Thriller, Misterio, Comedio, Drama, Aventura, Comedia negra, Crimen",
+    "id": "3",
+    "price": 33
+  },
+  {
+    "name": "Titan A.E.",
+    "img": "https://i.pinimg.com/736x/5c/19/b5/5c19b5e0c692b47f5d4da3e04ce87a91--titan-ae-fountain.jpg",
+    "director": "Don Bluth & Gary Goldman",
+    "year": 2000,
+    "isFavorite": false,
+    "sinopsis": "Año 3208, la Tierra está siendo atacada por los malvados alienígenas Drej. Cale es la única esperanza que queda para salvar la raza Humana después de la destrucción de la Tierra.",
+    "genre": "Acción, Animación, Ciencia ficción, Infantil, Aventura",
+    "id": "4",
+    "price": 56
+  },
+  {
+    "name": "Russian Ark (Русский ковчег)",
+    "img": "https://images.justwatch.com/poster/241032017/s592/russian-ark",
+    "director": "Aleksandr Sokúrov",
+    "year": 2002,
+    "isFavorite": false,
+    "sinopsis": "Un marqués francés se pasea a través de un vasto laberinto de corredores, teatros y salones de baile en una recepción para el embajador persa. Obra maestra realizada en una única toma, destaca por ser la primera película en formato de alta definición sin comprimir, y la primera película comercial sin editar, pues consiste en un solo plano secuencia con Steadicam de 90 minutos. Fue rodada el 23 de diciembre de 2001 en el Museo del Hermitage.",
+    "genre": "Ficción histórica, Drama, Misterio, Experimental, Fantasía, Pieza de época",
+    "id": "5",
+    "price": 123
+  },
+  {
+    "name": "Brave",
+    "img": "https://img5.allocine.fr/acmedia/medias/nmedia/18/89/91/04/20072149.jpg",
+    "director": "Mark Andrews, Brenda Chapman, Steve Purcell",
+    "year": 2012,
+    "isFavorite": false,
+    "sinopsis": "Merida, la indómita hija del Rey Fergus y de la Reina Elinor, es una hábil arquera que decide romper con una antigua costumbre, que es sagrada para los señores de la tierra: el gigantesco Lord MacGuffin, el malhumorado Lord Macintosh y el cascarrabias Lord Dingwall. Las acciones de Merida desencadenan el caos y la furia en el reino. Además, pide ayuda a una sabia anciana que le concede un deseo muy desafortunado. La muchacha tendrá que afrontar grandes peligros antes de aprender qué es la auténtica valentía.",
+    "genre": "Animacion Infantil",
+    "id": "6",
+    "price": 45
+  },
+  {
+    "name": "Ainbo",
+    "img": "https://i0.wp.com/ainbomovie.com/wp-content/uploads/2020/11/AINBO-Poster-Artwork-2020.jpg?ssl=1",
+    "director": "Jose Zelada, Richard Claus",
+    "year": 2021,
+    "isFavorite": false,
+    "sinopsis": "La pequeña Ainbo vive en lo más profundo de la selva amazónica. Tras perder a su madre y pelearse con los adultos de su aldea, esta joven arquera emprende un viaje para salvar a su pueblo del poder destructor del hombre blanco. La acompañan sus dos guías espirituales, un avispado armadillo y un campechano tapir.",
+    "genre": "Animacion Infantil",
+    "id": "7",
+    "price": 15
+  },
+  {
+    "name": "Aladdin",
+    "img": "https://es.web.img3.acsta.net/medias/nmedia/18/73/54/02/20415767.jpg",
+    "director": "Guy Ritchie",
+    "year": 2019,
+    "isFavorite": false,
+    "sinopsis": "Aladdin Mena Massoud es un adorable pero desafortunado ladronzuelo enamorado de la hija del Sultán, la princesa Jasmine (Naomi Scott). Para intentar conquistarla, acepta el desafío de Jafar (Marwan Kenzari), que consiste en entrar a una cueva en mitad del desierto para dar con una lámpara mágica que le concederá todos sus deseos. Allí es donde Aladdín conocerá al Genio (Will Smith), dando inicio a una aventura como nunca antes había imaginado",
+    "genre": "Animacion Infantil",
+    "id": "8",
+    "price": 65
+  },
+  {
+    "name": "Home",
+    "img": "https://es.web.img2.acsta.net/pictures/15/02/06/14/05/242395.jpg",
+    "director": "Tim Johnson",
+    "year": 2015,
+    "isFavorite": false,
+    "sinopsis": "Cuando el alienígena más irritantemente optimista de la galaxia se encuentra huyendo de su propia raza, se verá forzado a formar equipo con una chica adolescente muy testaruda. Estos extraños fugitivos acabarán salvando el planeta. Adaptación del popular libro The True Meaning of Smekday, de Adam Rex. Voces originales: Jim Parsons, Rihanna, Jennifer Lopez y Steve Martin.",
+    "genre": "Animacion Infantil",
+    "id": "9",
+    "price": 87
+  },
+  {
+    "name": "Anna y Bruno",
+    "img": "https://i.pinimg.com/originals/08/2b/96/082b969867191ab707c42faecc350021.jpg",
+    "director": "Carlos Carrera",
+    "year": 2017,
+    "isFavorite": false,
+    "sinopsis": "Ana es una curiosa niña que se hace amiga de los seres imaginarios de los pacientes de un hospital psiquiátrico, donde recientemente ha llegado junto con su madre. Con la ayuda de sus nuevos amigos intentará escapar de ahí para buscar a su padre y reunir nuevamente a su familia.",
+    "genre": "Animacion Infantil",
+    "id": "10",
+    "price": 36
+  }
+]

@@ -1,0 +1,10 @@
+.product-card-container {
+  /* display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      padding: 40px 0px 0px 50px; */
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 50px;
+  text-align: center;
+}

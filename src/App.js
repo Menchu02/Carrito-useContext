@@ -1,24 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './components/Home/Home';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Carrito from './components/CartContent/CartContent';
+import DataProvider from './context/DataContext';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // envuelvo en DataProvider a toda mi aplicación, para que la info del proveedor pueda llegar a todos los puntos
+    <DataProvider>
+      <BrowserRouter>
+        <Routes>
+          <Route path='/' element={<Home />}></Route>
+          <Route path='/cart' element={<Carrito />}></Route>
+        </Routes>
+      </BrowserRouter>
+    </DataProvider>
   );
 }
 
